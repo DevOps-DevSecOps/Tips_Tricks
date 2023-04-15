@@ -1,1 +1,2 @@
-
+[CLI]
+The command will return a zero exit status on success, and a non-zero exit status on failure.
